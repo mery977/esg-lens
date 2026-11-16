@@ -1,0 +1,8 @@
+﻿indicator;value;unit;year;checks;page;quote;self_corrected;notes
+scope1_emissions;36442.0;tCO2e;2025;passed;39;Gross Scope 1 GHG emissions tCO2eq 36,442 33,245* 37,870 10 %;;
+scope2_emissions;1717.0;tCO2e;2025;passed;39;Gross market-based Scope 2 GHG emissions (tCO2eq) 1,717 4,412* 85,954* -61 %;;
+scope3_emissions;61301358.0;tCO2e;2025;passed;39;Total Gross indirect (Scope 3) GHG emissions (tCO2eq) 61,301,358 62,452,170* 2,552,091* -2 % Not applicable Not applicable Not applicable;;
+energy_consumption;387667.0;MWh;2025;passed;38;Total energy consumption (MWh) (calculated as the sum of lines 6, 7 and 11) 387,667 364,029* 399,900*;;
+renewable_share;47.0;%;2025;passed;38;Share of renewable sources in total energy consumption (%) 47 % 45 % 44 %;;
+water_withdrawal;;;;not disclosed;;;;
+women_in_management;19.0;%;2025;passed;17;In 2025, the ratio was 19%/81%.;;

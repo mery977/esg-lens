@@ -1,0 +1,116 @@
+{
+  "doc_id": "metso-2025-6480a05b0468",
+  "provider": "gemini",
+  "kpis": [
+    {
+      "kpi": "scope1_emissions",
+      "value": 36442.0,
+      "unit": "tCO2e",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 39,
+        "quote": "Gross Scope 1 GHG emissions tCO2eq 36,442 33,245* 37,870 10 %"
+      },
+      "confidence": 0.95,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "scope2_emissions",
+      "value": 1717.0,
+      "unit": "tCO2e",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 39,
+        "quote": "Gross market-based Scope 2 GHG emissions (tCO2eq) 1,717 4,412* 85,954* -61 %"
+      },
+      "confidence": 1.0,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "scope3_emissions",
+      "value": 61301358.0,
+      "unit": "tCO2e",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 39,
+        "quote": "Total Gross indirect (Scope 3) GHG emissions (tCO2eq) 61,301,358 62,452,170* 2,552,091* -2 % Not applicable Not applicable Not applicable"
+      },
+      "confidence": 1.0,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "energy_consumption",
+      "value": 387667.0,
+      "unit": "MWh",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 38,
+        "quote": "Total energy consumption (MWh) (calculated as the sum of lines 6, 7 and 11) 387,667 364,029* 399,900*"
+      },
+      "confidence": 0.95,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "renewable_share",
+      "value": 47.0,
+      "unit": "%",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 38,
+        "quote": "Share of renewable sources in total energy consumption (%) 47 % 45 % 44 %"
+      },
+      "confidence": 1.0,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "water_withdrawal",
+      "value": null,
+      "unit": null,
+      "year": null,
+      "citation": null,
+      "confidence": 0.0,
+      "verified": false,
+      "verification_notes": [],
+      "attempts": 1,
+      "corrected_issues": []
+    },
+    {
+      "kpi": "women_in_management",
+      "value": 19.0,
+      "unit": "%",
+      "year": 2025,
+      "citation": {
+        "doc_id": "metso-2025-6480a05b0468",
+        "page": 17,
+        "quote": "In 2025, the ratio was 19%/81%."
+      },
+      "confidence": 0.3,
+      "verified": true,
+      "verification_notes": [],
+      "attempts": 2,
+      "corrected_issues": []
+    }
+  ],
+  "latency_s": 66.441,
+  "llm_calls": 15
+}

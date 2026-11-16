@@ -1,0 +1,8 @@
+[server]
+maxUploadSize = 50   # MB, same limit as the API
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+primaryColor = "#137333"

@@ -1,0 +1,29 @@
+{
+  "_comment": "Public sustainability statements used to test ESG Lens on real reports. `esg-lens fetch` downloads them into data/reports/ (git-ignored: the PDFs belong to the companies). Add your own lines with the same fields.",
+  "reports": [
+    {
+      "company": "Metso",
+      "year": 2025,
+      "standard": "CSRD / ESRS",
+      "file": "metso-2025.pdf",
+      "url": "https://www.metso.com/globalassets/investors/reports/2025/metso-sustainability-statement-2025.pdf",
+      "why": "Mining equipment, about 80 pages: a mid-size statement, the easiest start."
+    },
+    {
+      "company": "Scania",
+      "year": 2025,
+      "standard": "CSRD / ESRS",
+      "file": "scania-2025.pdf",
+      "url": "https://www.scania.com/content/dam/group/investor-relations/annual-reports/2025/sustainability-statement-2025.pdf",
+      "why": "Trucks. Reports Scope 1 and 2 combined and says water is not material: tests 'not disclosed'."
+    },
+    {
+      "company": "Holcim",
+      "year": 2025,
+      "standard": "CSRD / ESRS",
+      "file": "holcim-2025.pdf",
+      "url": "https://www.holcim.com/sites/holcim/files/docs/27022026-holcim-sustainability-statement-2025.pdf",
+      "why": "Cement, about 155 pages, emissions in Mt CO2e and intensity figures: the hardest case."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scope1_emissions": {
+    "page": 39,
+    "found": true,
+    "before": "Gross Scopes 1, 2, 3 and Total GHG emissions Retrospective Milestones and target years 2025 2024 2019 % Change 2025 2030 Annual % target / Base Year Scope 1 GHG emissions ",
+    "match": "Gross Scope 1 GHG emissions tCO2eq 36,442 33,245* 37,870 10",
+    "after": " % Decrease Scope 1 & 2 CO2 emissions by 76% compared to 2019 Net Zero Scope 1 & 2 12.7 % Percentage of Scope 1 GHG emissions from regulated emission trading schemes (%) Not applicable Not applicable Not applicable Not applicable Not applicable Not applicable Not applicable Scope…"
+  },
+  "scope2_emissions": {
+    "page": 39,
+    "found": true,
+    "before": "…emission trading schemes (%) Not applicable Not applicable Not applicable Not applicable Not applicable Not applicable Not applicable Scope 2 GHG emissions Gross location-based Scope 2 GHG emissions (tCO2eq) 84,534 77,789* 81,632* 9 % Not applicable Not applicable Not applicable ",
+    "match": "Gross market-based Scope 2 GHG emissions (tCO2eq) 1,717 4,412* 85,954* -61",
+    "after": " % Decrease Scope 1 & 2 CO2 emissions by 76% compared to 2019 Net Zero Scope 1 & 2 12.7 % Significant Scope 3 GHG emissions Total Gross indirect (Scope 3) GHG emissions (tCO2eq) 61,301,358 62,452,170* 2,552,091* -2 % Not applicable Not applicable Not applicable Purchased goods an…"
+  },
+  "scope3_emissions": {
+    "page": 39,
+    "found": true,
+    "before": "…(tCO2eq) 84,534 77,789* 81,632* 9 % Not applicable Not applicable Not applicable Gross market-based Scope 2 GHG emissions (tCO2eq) 1,717 4,412* 85,954* -61 % Decrease Scope 1 & 2 CO2 emissions by 76% compared to 2019 Net Zero Scope 1 & 2 12.7 % Significant Scope 3 GHG emissions ",
+    "match": "Total Gross indirect (Scope 3) GHG emissions (tCO2eq) 61,301,358 62,452,170* 2,552,091* -2 % Not applicable Not applicable Not applicable",
+    "after": " Purchased goods and services 770,249 746,040* 688,000 3 % Not applicable Not applicable Not applicable Fuel and energy-related activities (not included in Scope 1 or Scope 2) 32,527 29,350* 19,692* 11 % Not applicable Not applicable Not applicable Business travel 27,884 26,603 2…"
+  },
+  "energy_consumption": {
+    "page": 38,
+    "found": true,
+    "before": "…89* (10) The consumption of self-generated non-fuel renewable energy (MWh) 7,976 6,384 5,177 (11) Total renewable energy consumption (MWh) (calculated as the sum of lines 8 to 10) 181,673 165,499* 177,688* Share of renewable sources in total energy consumption (%) 47 % 45 % 44 % ",
+    "match": "Total energy consumption (MWh) (calculated as the sum of lines 6, 7 and 11) 387,667 364,029* 399,900",
+    "after": "* * Restated due to internal validation. Total energy consumption increased less than 1%. Energy intensity based on net revenue 2025 2024 % Change Total energy consumption from activities in high climate impact sectors per net revenue from activities in high climate impact sector…"
+  },
+  "renewable_share": {
+    "page": 38,
+    "found": true,
+    "before": "…at, steam, and cooling from renewable sources (MWh) 172,682 157,250* 164,589* (10) The consumption of self-generated non-fuel renewable energy (MWh) 7,976 6,384 5,177 (11) Total renewable energy consumption (MWh) (calculated as the sum of lines 8 to 10) 181,673 165,499* 177,688* ",
+    "match": "Share of renewable sources in total energy consumption (%) 47 % 45 % 44",
+    "after": " % Total energy consumption (MWh) (calculated as the sum of lines 6, 7 and 11) 387,667 364,029* 399,900* * Restated due to internal validation. Total energy consumption increased less than 1%. Energy intensity based on net revenue 2025 2024 % Change Total energy consumption from…"
+  },
+  "women_in_management": {
+    "page": 17,
+    "found": true,
+    "before": "…gender, backgrounds, and capabilities. In 2023, Metso set a new long-term target to increase the proportion of women in middle and senior management positions. The target is to achieve a ratio of 30% female/70% male for middle and senior management positions by the end of 2030. ",
+    "match": "In 2025, the ratio was 19%/81",
+    "after": "%. Sustainability-related expertise within the Metso Leadership Team includes: • Social and people-related expertise and responsibility - Chief People Officer • Governance expertise and responsibility - General Counsel • Environmental, health and safety expertise and responsibili…"
+  }
+}

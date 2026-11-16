@@ -1,0 +1,7 @@
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "scope1_emissions", "value": 48250, "unit": "tCO2e", "page": 2, "tolerance_pct": 1}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "scope2_emissions", "value": 12900, "unit": "tCO2e", "page": 2, "tolerance_pct": 1}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "scope3_emissions", "value": 1200000, "unit": "tCO2e", "page": 2, "tolerance_pct": 1}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "energy_consumption", "value": 410000, "unit": "MWh", "page": 3, "tolerance_pct": 1}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "renewable_share", "value": 64, "unit": "%", "page": 3, "tolerance_pct": 1}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "water_withdrawal", "value": null, "unit": "m3", "page": null}
+{"pdf": "data/samples/sample_esg_report.pdf", "kpi": "women_in_management", "value": 38, "unit": "%", "page": 4, "tolerance_pct": 1}

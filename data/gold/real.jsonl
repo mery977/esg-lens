@@ -1,0 +1,7 @@
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "scope1_emissions", "value": 36442, "unit": "tCO2e", "page": 39, "tolerance_pct": 1, "reviewed": true, "note": "Gross Scope 1, 2025 column"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "scope2_emissions", "value": 1717, "unit": "tCO2e", "page": 39, "tolerance_pct": 1, "reviewed": true, "note": "market-based; the location-based figure on the line above is 84,534"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "scope3_emissions", "value": 61301358, "unit": "tCO2e", "page": 39, "tolerance_pct": 1, "reviewed": true, "note": "Total gross indirect (Scope 3), 2025 column"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "energy_consumption", "value": 387667, "unit": "MWh", "page": 38, "tolerance_pct": 1, "reviewed": true, "note": "Total energy consumption, 2025 column"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "renewable_share", "value": 47, "unit": "%", "page": 38, "tolerance_pct": 1, "reviewed": true, "note": "Share of renewable sources in total energy consumption"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "water_withdrawal", "value": null, "reviewed": true, "note": "the report discloses water consumption (303,729 m3), not withdrawal"}
+{"pdf": "data/reports/metso-2025.pdf", "kpi": "women_in_management", "value": 19, "unit": "%", "page": 56, "tolerance_pct": 1, "reviewed": true, "note": "middle and senior management, 19% female / 81% male in 2025"}
